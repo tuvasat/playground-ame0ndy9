@@ -23,6 +23,6 @@ print(t5.my_del(4))
 
 ?[What is the variable 'CONDITION' in the code above?]
 -[ ] Integer
--[ ] Double
+-[x] Double
 -[x] Boolean
 -[ ] Long
