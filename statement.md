@@ -19,3 +19,12 @@ import t5
 print(t5.my_del(4))
 
 ```
+
+
+fgfghfghfgh
+[ ] 1
+[ ] 2
+[ ] 3
+[ ] 4
+[ ] 5
+[*] 6
