@@ -21,10 +21,8 @@ print(t5.my_del(4))
 ```
 
 
-fgfghfghfgh
-[ ] 1
-[ ] 2
-[ ] 3
-[ ] 4
-[ ] 5
-[*] 6
+?[What is the variable 'CONDITION' in the code above?]
+-[ ] Integer
+-[ ] Double
+-[x] Boolean
+-[ ] Long
